@@ -7,12 +7,11 @@
 
 
 ## 8月15日更新
-新增“内卷传感器”，根据键盘输入频率改变灯的色温和亮度
-新增依赖 pip3 install pynput (用于监测键盘输入)
-按照上述的教程填入params中的参数，以及在官网找到自己灯泡的subjectId，替换commands.py中对应字段
-然后python3 listen.py 即可启动“内卷传感器”
-
-
+### 新增“内卷传感器”，根据键盘输入频率改变灯的色温和亮度
+### 新增依赖 pip3 install pynput (用于监测键盘输入)
+### 按照上述的教程填入params中的参数，以及在官网找到自己灯泡的subjectId，替换commands.py中对应字段
+### 然后python3 listen.py 即可启动“内卷传感器”
+### 效果展示 https://www.bilibili.com/video/BV1kg411673x/
 
 
 
